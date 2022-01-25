@@ -28,7 +28,7 @@
 #include "geometry_msgs/msg/transform_stamped.hpp"
 #include "nav_msgs/msg/odometry.hpp"
 #include "gtest/gtest.h"
-#include "fake_test_node/fake_test_node.hpp"
+#include "auto_fake_test_node/fake_test_node.hpp"
 #include "rclcpp/rclcpp.hpp"
 #include "rclcpp/time.hpp"
 #include "trajectory_follower_test_utils.hpp"

@@ -19,7 +19,7 @@
 #include "motion_velocity_smoother/smoother/jerk_filtered_smoother.hpp"
 #include "motion_velocity_smoother/smoother/l2_pseudo_jerk_smoother.hpp"
 #include "motion_velocity_smoother/smoother/linf_pseudo_jerk_smoother.hpp"
-#include "osqp_interface/osqp_interface.hpp"
+#include "auto_osqp_interface/osqp_interface.hpp"
 #include "rclcpp/rclcpp.hpp"
 #include "tf2/utils.h"
 #include "tf2_ros/transform_listener.h"

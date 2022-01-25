@@ -25,7 +25,7 @@
 #include "geometry_msgs/msg/pose_stamped.hpp"
 #include "geometry_msgs/msg/transform_stamped.hpp"
 #include "nav_msgs/msg/odometry.hpp"
-#include "fake_test_node/fake_test_node.hpp"
+#include "auto_fake_test_node/fake_test_node.hpp"
 #include "gtest/gtest.h"
 #include "rclcpp/rclcpp.hpp"
 #include "rclcpp/time.hpp"

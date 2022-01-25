@@ -17,7 +17,7 @@
   <depend>rclcpp</depend>
   <depend>auto_reference_tracking_controller</depend>
   <depend>auto_signal_filters</depend>
-  <depend>time_utils</depend>
+  <depend>auto_time_utils</depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>

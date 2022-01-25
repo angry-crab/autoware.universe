@@ -16,7 +16,7 @@
 #define MOTION_VELOCITY_SMOOTHER__SMOOTHER__JERK_FILTERED_SMOOTHER_HPP_
 
 #include "motion_velocity_smoother/smoother/smoother_base.hpp"
-#include "osqp_interface/osqp_interface.hpp"
+#include "auto_osqp_interface/osqp_interface.hpp"
 #include "tier4_autoware_utils/geometry/geometry.hpp"
 #include "tier4_autoware_utils/trajectory/trajectory.hpp"
 

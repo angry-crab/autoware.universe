@@ -19,7 +19,7 @@
 
 #include "common/types.hpp"
 #include "eigen3/Eigen/Dense"
-#include "osqp_interface/osqp_interface.hpp"
+#include "auto_osqp_interface/osqp_interface.hpp"
 #include "rclcpp/rclcpp.hpp"
 #include "trajectory_follower/visibility_control.hpp"
 

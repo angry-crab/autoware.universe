@@ -21,7 +21,7 @@
 #include "obstacle_avoidance_planner/vehicle_model/vehicle_model_bicycle_kinematics_no_delay.hpp"
 
 #include <opencv2/core.hpp>
-#include <osqp_interface/osqp_interface.hpp>
+#include <auto_osqp_interface/osqp_interface.hpp>
 
 #include <nav_msgs/msg/map_meta_data.hpp>
 

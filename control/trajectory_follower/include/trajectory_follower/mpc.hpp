@@ -43,7 +43,7 @@
 #include "geometry_msgs/msg/pose.hpp"
 #include "helper_functions/angle_utils.hpp"
 #include "motion_common/motion_common.hpp"
-#include "osqp_interface/osqp_interface.hpp"
+#include "auto_osqp_interface/osqp_interface.hpp"
 #include "rclcpp/rclcpp.hpp"
 #include "rclcpp_components/register_node_macro.hpp"
 

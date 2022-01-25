@@ -19,7 +19,7 @@
 #include "obstacle_avoidance_planner/util.hpp"
 
 #include <opencv2/opencv.hpp>
-#include <osqp_interface/osqp_interface.hpp>
+#include <auto_osqp_interface/osqp_interface.hpp>
 
 #include <autoware_auto_perception_msgs/msg/predicted_object.hpp>
 #include <autoware_auto_planning_msgs/msg/path.hpp>

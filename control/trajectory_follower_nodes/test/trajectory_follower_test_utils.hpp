@@ -18,7 +18,7 @@
 #include <memory>
 #include <string>
 
-#include "fake_test_node/fake_test_node.hpp"
+#include "auto_fake_test_node/fake_test_node.hpp"
 #include "geometry_msgs/msg/transform_stamped.hpp"
 #include "rclcpp/rclcpp.hpp"
 #include "rclcpp/time.hpp"

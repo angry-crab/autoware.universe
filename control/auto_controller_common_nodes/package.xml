@@ -24,7 +24,7 @@
   <depend>auto_state_vector</depend>
 
   <build_depend>motion_common</build_depend>
-  <build_depend>time_utils</build_depend>
+  <build_depend>auto_time_utils</build_depend>
 
   <build_depend>auto_motion_testing</build_depend>
   <build_depend>auto_motion_testing_nodes</build_depend>

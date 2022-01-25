@@ -18,7 +18,7 @@
   <depend>interpolation</depend>
   <depend>libboost-dev</depend>
   <depend>nav_msgs</depend>
-  <depend>osqp_interface</depend>
+  <depend>auto_osqp_interface</depend>
   <depend>tf2</depend>
   <depend>tf2_ros</depend>
   <depend>tier4_autoware_utils</depend>

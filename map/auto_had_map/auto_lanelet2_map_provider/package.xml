@@ -25,7 +25,7 @@
   <depend>autoware_auto_mapping_msgs</depend>
   <depend>visualization_msgs</depend>
   <depend>autoware_auto_common</depend>
-  <depend>had_map_utils</depend>
+  <depend>auto_had_map_utils</depend>
   
   <depend>ament_index_python</depend>
 
